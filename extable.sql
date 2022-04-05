@@ -1,6 +1,6 @@
 --## Author :- Rakesh Sharma ##
 --## Accessing external tables via Synapse Serverless Pool without exposing ADLS ##--
-
+--## Test this script in TEST\DEV enviornment ##--
 --## Creating a Master Key in the Database ##--
 CREATE MASTER KEY ENCRYPTION BY PASSWORD='xxxxxxxx'
 
